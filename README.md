@@ -19,6 +19,8 @@ This is a simple blog application built with Django. It allows users to register
 
     ```sh
     git clone https://github.com/yourusername/yourrepository.git
+    ```
+    ```
     cd yourrepository
     ```
 
@@ -26,6 +28,8 @@ This is a simple blog application built with Django. It allows users to register
 
     ```sh
     python -m venv venv
+    ```
+    ```
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
 
